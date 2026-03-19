@@ -3,21 +3,9 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "kta.atas.indonesia",
+      "package_name": "farypin.store",
       "sha256_cert_fingerprints":
-        ["4D:DF:7D:1D:26:87:BC:15:81:2A:02:CE:52:AB:E3:57:90:DF:42:B5:C7:F0:0A:4C:A9:8C:CE:86:9D:0F:95:8C"]
-    }
-  }
-]
-
-[
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "atas.indonesia",
-      "sha256_cert_fingerprints":
-        ["FA:8A:9C:CA:7A:28:5B:DD:A8:1B:A0:62:5B:6D:FE:14:18:95:E2:94:00:86:0B:2A:4A:62:2C:24:98:4E:90:67"]
+        ["CE:33:3B:6B:96:23:45:E2:BF:A2:1D:B0:1B:8D:60:42:3E:17:6A:6D:4A:A4:E6:B9:39:27:15:23:BC:A3:4C:1C"]
     }
   }
 ]
